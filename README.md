@@ -1,3 +1,2 @@
-# Projeto para DIO
-simple-product-card
+# Repositório como tarefa para a DIO
 Cartão máquina fotográfica
